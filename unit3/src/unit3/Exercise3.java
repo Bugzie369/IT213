@@ -1,0 +1,26 @@
+package unit3;
+
+public class Exercise3 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int sum = 0; 
+		int count = 0; 
+		
+		int i = 1;
+		
+		while(i <=100)
+			
+		{ 
+			System.out.printf("%d\n", i);
+			sum = sum + i;
+			count = count + 1;
+			i++;
+			
+		}
+		System.out.printf("The sum = %d\n", sum);
+		System.out.printf("The average = %d\n ", sum / count);
+		
+	}
+
+}

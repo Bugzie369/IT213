@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/Users/will_hurst/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core
+4034442664.index
+511104132.index
+1769071634.index

@@ -1,0 +1,21 @@
+import java.util.Scanner;
+
+	public class exercise2 {
+		
+		public static void main (String[] args) {
+			Scanner inpiut = new Scanner (System.in);
+			
+			double grade;
+			
+			System.out.print("Enter your grade to see if you passed: ");
+			grade = input.nextDouble();
+			
+			if (grade >= 60)
+				
+				System.out.printf("Congratulations, you passed");
+			
+			
+				
+		}	
+
+}
